@@ -1,0 +1,1 @@
+export const SET_PRICING= 'SET_PRICING'

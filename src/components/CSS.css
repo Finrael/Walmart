@@ -1,0 +1,14 @@
+.global{
+    width: 25%;
+    position: absolute;
+    right:50px;
+}
+
+.numbers{
+    position:absolute;
+    right:10px;
+}
+.promo{
+    position:absolute;
+    right:10px;
+}
